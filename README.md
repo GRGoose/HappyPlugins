@@ -1,2 +1,2 @@
 # HappyPlugins
-Plugins for usage on Happy's discord server events and stuff
+Source code of plugins used to host events on Happy's discord server! Join at <link>
